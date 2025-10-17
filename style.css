@@ -1,0 +1,29 @@
+html {
+/* Author: Tiziana Rizzato
+   Date: 10/15/2025
+   Description: This is the style sheet for the index.html file. */
+
+ 
+  height: 100%;
+  width: 100%;
+}
+
+body {
+
+  p{
+font-size:16pt;
+  }
+background-color: #c2ccff;
+
+
+h1{
+   text-shadow:2px 2px 5px grey;
+  font-family;"Arial";
+  color: white;
+}
+
+   ol {
+   font-size:14pt;
+        color: dark grey;
+      list-style: upper-roman;
+   }
